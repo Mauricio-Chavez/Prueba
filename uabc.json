@@ -6,8 +6,8 @@
     "type": "Profile",
     "id": "https://github.com/Mauricio-Chavez/Prueba/blob/main/uabc.json",
     "name": "Mauricio Yosef Chavez Rodriguez",
-    "url": "https://www.uabc.com",
-    "introductionURL": "https://www.uabc.com",
+    "url": "https://idiomas.uabc.mx/",
+    "introductionURL": "https://idiomas.uabc.mx/",
     "revocationList": "https://github.com/Mauricio-Chavez/Prueba/blob/main/revocation.json",
     "publicKey": [
         {
