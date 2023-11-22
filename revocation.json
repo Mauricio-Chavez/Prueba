@@ -1,7 +1,7 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://raw.githubusercontent.com/jhdezctza/blockcerts/main/revocation-list.json",
+    "id": "https://github.com/Mauricio-Chavez/Prueba/blob/main/revocation.json",
     "type": "RevocationList",
-    "issuer": "https://raw.githubusercontent.com/jhdezctza/blockcerts/main/jhdezctza.json",
+    "issuer": "https://github.com/Mauricio-Chavez/Prueba/blob/main/revocation.json",
     "revokedAssertions": []
 }
