@@ -11,7 +11,7 @@
     "revocationList": "https://github.com/Mauricio-Chavez/Prueba/blob/main/revocation.json",
     "publicKey": [
         {
-            "id": "ecdsa-koblitz-pubkey:mhLhuVZs7ZbziZwkW7k9UukyzsgAG7BPdm",
+            "id": "ecdsa-koblitz-pubkey:msBCHdwaQ7N2ypBYupkp6uNxtr9Pg76imj",
             "created": "2023-21-29T14:48:03.814936+00:00"
         }
     ],
