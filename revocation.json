@@ -2,6 +2,6 @@
     "@context": "https://w3id.org/openbadges/v2",
     "id": "https://github.com/Mauricio-Chavez/Prueba/blob/main/revocation.json",
     "type": "RevocationList",
-    "issuer": "https://github.com/Mauricio-Chavez/Prueba/blob/main/revocation.json",
+    "issuer": "https://github.com/Mauricio-Chavez/Prueba/blob/main/uabc.json",
     "revokedAssertions": []
 }
