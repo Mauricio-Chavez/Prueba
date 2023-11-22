@@ -8,7 +8,7 @@
     "name": "Mauricio Yosef Chavez Rodriguez",
     "url": "https://www.uabc.com",
     "introductionURL": "https://www.uabc.com",
-    "revocationList": "https://raw.githubusercontent.com/jhdezctza/blockcerts/main/revocation-list-jhdezctza.json",
+    "revocationList": "https://github.com/Mauricio-Chavez/Prueba/blob/main/revocation.json",
     "publicKey": [
         {
             "id": "ecdsa-koblitz-pubkey:mhLhuVZs7ZbziZwkW7k9UukyzsgAG7BPdm",
